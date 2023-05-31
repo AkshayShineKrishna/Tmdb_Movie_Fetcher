@@ -66,3 +66,42 @@ http://localhost:5000/get_popular?api_key=<YOUR_API_KEY>
 ``` 
 
 For more information, refer to the Flask application code in `main.py`.
+
+## Sample json Response
+```
+{
+  "results": [
+    {
+      "id": 667538,
+      "original_title": "Original movie title",
+      "overview": "Movie Overview",
+      "release_date": "2023-06-06",
+      "month": "JUN",
+      "day": "06",
+      "title": "Movie title",
+      "poster_path": "/path/to/poster.png",
+      "site": "YouTube",
+      "key": "https://youtu.be/key",
+      "logo_path": "/path/to/logo.png",
+      "backdrop_path": "/rH3jY9JN9krUyE0Q3WLNtujMs8.jpg"
+    },
+    ...
+  ]
+}
+```
+## Hosting
+For hosting Python scripts, you can consider the following free hosting solutions:
+
+1. PythonAnywhere : [PythonAnywhere](https://www.pythonanywhere.com/) provides free hosting for Python scripts. It offers a web-based Python development environment and allows you to run Python scripts, schedule tasks, and even host web applications using Flask or Django.
+
+2. Replit : [Replit](https://replit.com/) is an online coding platform that supports various programming languages, including Python. It allows you to write, run, and host Python scripts directly in the browser. Replit offers a free tier with limited resources.
+
+3. Glitch : [Glitch](https://glitch.com/) is a collaborative coding platform that allows you to host and run web applications, including Python scripts. It provides a web-based development environment and offers free hosting with limited resources.
+
+4. Google Colab : [Google Colab](https://colab.research.google.com/) is a cloud-based Jupyter notebook platform that provides free access to GPUs and TPUs for running Python scripts. While primarily designed for data science and machine learning tasks, it can also be used for general-purpose Python script hosting.
+
+5. AWS Free Tier : [Amazon Web Services (AWS)](https://aws.amazon.com/free/) offers a Free Tier that allows you to host Python scripts using services like AWS Lambda and AWS EC2. You can run serverless functions or deploy virtual servers and take advantage of the free usage limits for a specified period.
+
+6. Microsoft Azure Free Account : [Microsoft Azure](https://azure.microsoft.com/free/) provides a Free Account that includes a limited amount of free resources. You can leverage Azure Functions or Azure Virtual Machines to host and run Python scripts.
+
+Please note that the free tiers of these hosting solutions may have limitations on resources, such as compute power, storage, or bandwidth. It's important to review their documentation and terms to ensure they meet your specific hosting requirements.

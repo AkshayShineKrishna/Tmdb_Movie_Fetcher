@@ -114,3 +114,6 @@ We welcome contributions to enhance the Tmdb_Movie_Fetcher API and make it even 
 By contributing to Tmdb_Movie_Fetcher, you help create a better API for retrieving and processing movie details. Your contributions can benefit developers and movie enthusiasts alike.
 
 Please make sure to review and follow the [contribution guidelines](https://github.com/AkshayShineKrishna/Tmdb_Movie_Fetcher/blob/master/CONTRIBUTING.md) before submitting your contribution.
+
+## Aknowledgement
+We would like to acknowledge The Movie Database (TMDb) for providing the movie database and API that powers this application. Their API enables us to retrieve movie details, making this project possible.

@@ -15,7 +15,7 @@ You need an API key from TMDb to access their API.
 
 1. Clone the repository to your local machine.
 ```
-git clone https://github.com/AkshayShineKrishna/Netflix_App_UI_Clone.git
+git clone https://github.com/AkshayShineKrishna/Tmdb_Movie_Fetcher.git
 ```
 2. Create a virtual environment using [venv](https://docs.python.org/3/library/venv.html) or [virtualenv](https://pypi.org/project/virtualenv/). Here's an example using `venv`:
   - Run the command to create a virtual environment named `env` : 

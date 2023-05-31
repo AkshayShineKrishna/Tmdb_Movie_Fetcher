@@ -105,3 +105,12 @@ For hosting Python scripts, you can consider the following free hosting solution
 6. Microsoft Azure Free Account : [Microsoft Azure](https://azure.microsoft.com/free/) provides a Free Account that includes a limited amount of free resources. You can leverage Azure Functions or Azure Virtual Machines to host and run Python scripts.
 
 Please note that the free tiers of these hosting solutions may have limitations on resources, such as compute power, storage, or bandwidth. It's important to review their documentation and terms to ensure they meet your specific hosting requirements.
+
+## Incorporate Tmdb_Movie_Fetcher in Your Applications
+Feel free to use the Tmdb_Movie_Fetcher API in your applications and contribute to its enhancement. Integrate the API to retrieve movie details and leverage additional information like video links and logos.
+
+## Contribution
+We welcome contributions to enhance the Tmdb_Movie_Fetcher API and make it even more useful. If you find any issues or have suggestions for improvements, feel free to create a pull request or open an issue in the [GitHub repository](https://github.com/AkshayShineKrishna/Tmdb_Movie_Fetcher)
+By contributing to Tmdb_Movie_Fetcher, you help create a better API for retrieving and processing movie details. Your contributions can benefit developers and movie enthusiasts alike.
+
+Please make sure to review and follow the [contribution guidelines](https://github.com/AkshayShineKrishna/Tmdb_Movie_Fetcher/CONTRIBUTING.md) before submitting your contribution.
